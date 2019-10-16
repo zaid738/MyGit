@@ -2,8 +2,8 @@
 
 
 class HelloGit{
-  static void my method(){
-   sysout("My method")
+  static string my method(){
+   return ("My method")
    }
 main(){
 <<<<<<< HEAD

@@ -1,10 +1,9 @@
-This is my full application ... Hello Git
+ // This is my full application ... Hello Git
 
 
 class HelloGit{
 main(){
-sysout("Welcome to git")
-sysout("heloo")
-gfsdfj
+System.out.println("Welcome to git")
+
 }
 }

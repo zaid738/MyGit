@@ -2,7 +2,7 @@
 
 
 class HelloGit{
-   my method(){
+  static void my method(){
    sysout("My method")
    }
 main(){

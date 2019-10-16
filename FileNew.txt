@@ -2,8 +2,13 @@
 
 
 class HelloGit{
+<<<<<<< HEAD
   static string my method(){
    return ("My method")
+=======
+  public void my method( String str){
+   System.ot.println(str)
+>>>>>>> Sysout changed to System.out.println
    }
 main(){
 <<<<<<< HEAD

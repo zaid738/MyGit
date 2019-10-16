@@ -3,7 +3,11 @@
 
 class HelloGit{
 main(){
+<<<<<<< HEAD
 System.out.println(" Java application tp print ...Welcome to git ")
+=======
+System.out.println(" This will be printed Welcome to git")
+>>>>>>> bug456
 
 }
 }

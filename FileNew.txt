@@ -2,6 +2,9 @@
 
 
 class HelloGit{
+   my method(){
+   sysout("My method")
+   }
 main(){
 <<<<<<< HEAD
 System.out.println(" Java application tp print ...Welcome to git ")
